@@ -1,4 +1,4 @@
-# **Hi, I'm Arvind**
+# Hi, I'm Arvind
 
 <br />
 
