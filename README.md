@@ -2,10 +2,10 @@
 
 <br />
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building a community. Some technologies I enjoy working with include ReactJS, Golang(fiber framework), python, GCP, redis and postgresql database.
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building a community. Some technologies I enjoy working with include ReactJS, Golang(fiber framework), python and postgreSQL.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- 📫 How to reach me: arvindrao.759@gmail.com -->
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
@@ -14,3 +14,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 Would love to contribute to open source community soon  
 
 ### My blogging channel: [Blogs](https://hashnode.com/@arvind-rao) :notebook_with_decorative_cover:
+
+
+📫 Reach me @ arvindrao.759@gmail.com
