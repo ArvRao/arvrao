@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people and building a community. Some technologies I enjoy working with include ReactJS, Golang, python and postgreSQL.
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people and building a community. Some technologies I enjoy working with include ReactJS, Golang, python and postgreSQL. I also interested in learning various technologies in the cloud domain
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
