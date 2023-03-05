@@ -14,5 +14,3 @@ My Leetcode profile: [Leetcode](https://leetcode.com/arvindrao/) :computer:
 <br />
 
 📫 Reach me @ arvindrao.759@gmail.com
-
-<a href="https://app.daily.dev/arvindrao"><img src="https://api.daily.dev/devcards/fc523532aef14b9b99c07f58f84407ec.png?r=l7x" width="400" alt="Arvind D Rao's Dev Card"/></a>
