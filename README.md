@@ -13,4 +13,4 @@ My Leetcode profile: [Leetcode](https://leetcode.com/arvindrao/) :computer:
 
 <br />
 
-📫 Reach me @ arvindrao.759@gmail.com
+📫 My email: arvindrao.759@gmail.com
