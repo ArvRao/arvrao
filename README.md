@@ -5,7 +5,10 @@
 I am a passionate software engineer with a strong desire to continuously learn and build efficient solutions. I enjoy working with technologies like Java, Go, Python, and ReactJS.
 Worked on various projects like an e-commerce platform backend API, LRU Cache, application to chat to communicate with AI powered characters and much more.
 
-* I’m currently digging deep into backend development
+<br />
+
+▶️ **About me**
+* I'm currently focusing on deepening my expertise in backend development
 * Looking to collaborate on Open Source projects
 
 
